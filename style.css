@@ -107,3 +107,6 @@ p {
   color: var(--secondary-color);
   box-shadow: var(--box-shadow);
 }
+.primary-link:hover {
+  color: white;
+}
